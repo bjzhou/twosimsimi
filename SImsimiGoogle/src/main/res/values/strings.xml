@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">调戏谷歌娘</string>
+    <string name="action_settings">设置</string>
+    <string name="speech_promt">开始调戏</string>
+    <string name="init_text">Hi,我是谷歌娘，赶快来调戏我吧！</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="hint">输入话题开始让两个机器人聊天吧！</string>
+</resources>

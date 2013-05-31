@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SImsi.iml" filepath="$PROJECT_DIR$/SImsi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SImsimiGoogle.iml" filepath="$PROJECT_DIR$/SImsimiGoogle.iml" />
+    </modules>
+  </component>
+</project>
+
